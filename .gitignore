@@ -1,1 +1,4 @@
-/ConversorTemperaturas/dist/
+*.class
+/build/
+/test/
+/dist/
